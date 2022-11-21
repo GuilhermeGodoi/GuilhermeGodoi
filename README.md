@@ -37,7 +37,7 @@
 
 
 
-# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Listening on Spotify <img height="35" src="https://i.imgur.com/CLX6RI5.png">
+# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Listening on Spotify <img height="35" src="https://i.imgur.com/CLX6RI5.png">
 
   
   
@@ -45,7 +45,7 @@
 
 
     
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![Spotify](https://novatorem-qufv-cn6748zq5-guilhermegodoi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![Spotify](https://novatorem-qufv-cn6748zq5-guilhermegodoi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
     
 
 
