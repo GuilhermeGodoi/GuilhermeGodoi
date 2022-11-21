@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Guilherme and I'm a programer, from Brazil <img width="3%" src="https://i.imgur.com/lYrsI7t.png"> </h2> 
+<h2 align="center">Hi 👋! My name is Guilherme and I'm a programmer, from Brazil <img width="3%" src="https://i.imgur.com/lYrsI7t.png"> </h2> 
 <br>
 
 &nbsp; <p align="center"><img height="350" src="https://i.imgur.com/oaMSsL8.png"><br>
@@ -36,27 +36,22 @@
 </div>
 
 
-##
 
-<table border= "0"> 
-  <tr>
-  <td width="50%">
+# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Listening on Spotify <img height="35" src="https://i.imgur.com/CLX6RI5.png">
 
-&nbsp; <br> [![Spotify](https://novatorem-qufv-cn6748zq5-guilhermegodoi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
+  
+  
 
-  </td>
-  <td width="50%">
 
-&nbsp; <p align="center"><img height="250" src="https://i.imgur.com/ldRKuDU.png"/><br>
 
-  </p>
-  </td>
-</table>
+    
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![Spotify](https://novatorem-qufv-cn6748zq5-guilhermegodoi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
+    
 
 
 
 
-##
+
 
 
 
