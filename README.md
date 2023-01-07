@@ -45,4 +45,4 @@
 
 
     
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀[![Spotify](https://novatorem-qufv-cn6748zq5-guilhermegodoi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀[![Spotify](https://novatorem-qufv-cn6748zq5-guilhermegodoi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31f3lux6rmbazx5lqtegubwpicfa?si=ee99450c5a924ba0)
