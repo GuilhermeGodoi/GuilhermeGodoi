@@ -3,9 +3,24 @@
 
 &nbsp; <p align="center"><img height="350" src="https://i.imgur.com/oaMSsL8.png"><br>
 
+<h3 align="center">Knowledge in:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,mysql" />
+  </a>
+</p>
+
+<h3 align="center">Current Learning:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django" />
+  </a>
+</p>
+
+<h3 align="center">Interested:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,tensorflow,docker,kubernetes" />
   </a>
 </p>
 
@@ -26,13 +41,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=GuilhermeGodoi" height="150" alt="stats graph"  />
-  <img width="319" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false&username=GuilhermeGodoi" height="150" alt="languages graph"  />
-</div>
-
-
 
 # ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀Listening on Spotify <img height="35" src="https://i.imgur.com/CLX6RI5.png">
 
