@@ -13,14 +13,14 @@
 <h3 align="center">Current Learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django" />
+    <img src="https://skillicons.dev/icons?i=django,tensorflow" />
   </a>
 </p>
 
 <h3 align="center">Interested:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,tensorflow,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=java,docker,kubernetes" />
   </a>
 </p>
 
