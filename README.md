@@ -1,53 +1,48 @@
-<h2 align="center">Hi 👋! My name is Guilherme and I'm a programmer, from Brazil <img width="3%" src="https://i.imgur.com/lYrsI7t.png"> </h2> 
-<br>
+# Guilherme Godoi Barreiros
 
-&nbsp; <p align="center"><img height="350" src="https://i.imgur.com/oaMSsL8.png"><br>
+**Desenvolvedor Backend Python** · Django · FastAPI · PostgreSQL · Redis · Celery<br>
+Paulínia / Campinas, SP · trabalho remoto
 
-<h3 align="center">Knowledge in:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,mysql" />
-  </a>
+Construo e mantenho sistemas Python em produção há mais de 3 anos. Trabalho principalmente com regras de negócio complexas, integrações entre sistemas e código coberto por testes.
+
+## O que já construí
+
+| Sistema | O que faz | Stack |
+|---|---|---|
+| **Simulador de custo de viagem de navios** (empresa de gás e petróleo, pela GlobalHitss, 2025–atual) | Custo portuário, rotas em zonas ECA, combustível dentro e fora das ECAs e custo regulatório FuelEU Maritime. Cerca de 5,4 mil linhas e 206 testes unitários. | Python, Django, DRF, FastAPI, PostgreSQL, Redis, Celery |
+| **SGPR: gestão de radioproteção** (ISTRAD, 2024–2025) | Plataforma multiempresa para clínicas e hospitais: dosimetria com alertas automáticos, exames, treinamentos e notificações por e-mail (normas CNEN e NR-32). | Python, Django, PostgreSQL, Railway |
+| **Logística do Vestibular Unicamp** (projeto independente, 2023–atual) | Rastreio de caixas de provas por QR Code, presença por sala e ocorrências. Usado há 4 edições, em mais de 50 escolas por edição. | Python, Django, PostgreSQL, Railway |
+| **Fazelo** (projeto pessoal, 2026) | Marketplace mobile de serviços com pagamentos (divisão, custódia, estorno e webhook pelo PagBank) e regras de acesso no banco. | Supabase, PostgreSQL, TypeScript, React Native |
+
+O código desses sistemas é privado (de clientes, empresas ou ainda não publicado). Explico a arquitetura com prazer numa conversa.
+
+## Stack
+
+**Backend:** Python · Django · Django REST Framework · FastAPI · Celery · APIs REST · OAuth2/SSO · JWT<br>
+**Dados:** PostgreSQL · Redis · SQL<br>
+**Qualidade e operação:** testes unitários · SonarQube · análise de dependências (SCA) · Dynatrace · Git · Linux · Railway
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,git,linux,ts" alt="Python, Django, FastAPI, PostgreSQL, Redis, Git, Linux, TypeScript" />
 </p>
 
-<h3 align="center">Current Learning:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,tensorflow" />
-  </a>
-</p>
+## Contato
 
-<h3 align="center">Interested:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,kubernetes" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/guilherme-godoi-barreiros/) · [guilhermegodoibarreiros2@gmail.com](mailto:guilhermegodoibarreiros2@gmail.com)
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCVcJDYnVCOMdE3Bg-0ox12w" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/guilhermeg.b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="guilhermegodoibarreiros2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-godoi-barreiros/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<details>
+<summary><b>English</b></summary>
 
-###
+**Backend Developer (Python)** · Django · FastAPI · PostgreSQL · Redis · Celery<br>
+Campinas area, Brazil · remote
 
-# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀Listening on Spotify <img height="35" src="https://i.imgur.com/CLX6RI5.png">
+I've been building and maintaining production Python systems for 3+ years, mostly around complex business rules, system integrations and well-tested code.
 
-  
-  
+- **Voyage cost simulator** (oil and gas company, through GlobalHitss, 2025–present): port costs, ECA routing, fuel costs inside and outside ECAs and FuelEU Maritime regulatory costs. About 5.4k lines and 206 unit tests.
+- **SGPR, radiation protection compliance** (ISTRAD, 2024–2025): multi-tenant platform for clinics and hospitals with automated dose alerts, exam and training tracking and e-mail notifications.
+- **Unicamp entrance exam logistics** (independent project, 2023–present): QR Code tracking of exam boxes, attendance per room and incident reports. Used for 4 consecutive editions in 50+ schools per edition.
+- **Fazelo** (personal project, 2026): mobile services marketplace with split payments, escrow, refunds and webhooks (PagBank) and database access rules.
 
+The code for these systems is private (client, company or not yet released). Happy to walk through the architecture in a conversation.
 
-
-    
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀[![Spotify](https://novatorem-qufv-cn6748zq5-guilhermegodoi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31f3lux6rmbazx5lqtegubwpicfa?si=ee99450c5a924ba0)
+</details>
