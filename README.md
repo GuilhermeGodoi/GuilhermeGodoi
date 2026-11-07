@@ -3,7 +3,7 @@
 **Desenvolvedor Backend Python** · Django · FastAPI · PostgreSQL<br>
 Paulínia / Campinas, SP · trabalho remoto
 
-Construo e mantenho sistemas Python em produção há mais de 3 anos. Trabalho principalmente com regras de negócio complexas, e integrações entre sistemas.
+Construo e mantenho sistemas Python em produção há mais de 3 anos. Trabalho principalmente com regras de negócio complexas e integrações entre sistemas.
 
 ## O que já construí
 
@@ -36,7 +36,7 @@ O código desses sistemas é privado (de clientes, empresas ou ainda não public
 **Backend Developer (Python)** · Django · FastAPI · PostgreSQL<br>
 Campinas area, Brazil · remote
 
-I've been building and maintaining production Python systems for 3+ years, mostly around complex business rules, system integrations.
+I've been building and maintaining production Python systems for 3+ years, mostly around complex business rules and system integrations.
 
 - **Voyage cost simulator** (oil and gas company, through GlobalHitss, 2025–present): port costs, ECA routing, fuel costs inside and outside ECAs and FuelEU Maritime regulatory costs.
 - **SGPR, radiation protection compliance** (ISTRAD, 2024–2025): multi-tenant platform for clinics and hospitals with automated dose alerts, exam and training tracking and e-mail notifications.
